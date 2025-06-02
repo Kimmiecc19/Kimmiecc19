@@ -1,10 +1,11 @@
 ## Hi, I'm Kimberly (she/her) 👋
 
-### 🎓 About Me and my Research 🔬
-I'm a PhD student in Bioinformatics and Computational Biology at Stellenbosch University in the beautiful city of Cape Town, South Africa. My research is centered on the integration of multi-omics data, with a focus on Amyotrophic Lateral Sclerosis (ALS) as a disease model. 
-I’m passionate about developing bioinformatics tools and applying computational approaches to answer biological questions. 
-My research interests are wide-ranging — from rare diseases and multi-omics integration to tackling the reproducibility crisis in science. 
-I’m always eager to learn, explore new ideas, and contribute meaningfully to the field.
+### 🔬 About my Research 
+- I'm a PhD student in Bioinformatics and Computational Biology at Stellenbosch University in Cape Town, South Africa. 
+- My research is centered on the integration of multi-omics data, with a focus on Amyotrophic Lateral Sclerosis (ALS) as a disease model. 
+- I’m passionate about developing bioinformatics tools and applying computational approaches to answer biological questions. 
+- My research interests are wide-ranging — from rare diseases and multi-omics integration to tackling the reproducibility crisis in science. 
+- I’m always eager to learn, explore new ideas, and contribute meaningfully to the field.
 
 ### 💻 Projects
 Here are two of my recent projects that you might find interesting:
