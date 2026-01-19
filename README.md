@@ -10,12 +10,12 @@
 ### 💻 Projects
 Here are two of my recent projects that you might find interesting:
 - [**Reproducibility crisis in Proteomics**](https://github.com/Kimmiecc19/reproteomics): This project tackles the reproducibility crisis in proteomics, providing scripts in both R and Python to search for available proteomics tools and compare them.
-- [**RareInsight**](https://www.linkedin.com/in/kimberly-christine-coetzer-hugo-a02049151/): A user-friendly dashboard, similar to ClinVar Miner, designed to facilitate rare disease research and data exploration.
+- [**RareInsight**](https://github.com/Kimmiecc19/rareinsight): A user-friendly dashboard, similar to ClinVar Miner, designed to facilitate rare disease research and data exploration Publication available [here](https://doi.org/10.1038/s41598-025-09744-y).
 - My PhD project **(top secret - for now)**
 
 ### 🌱 Collaboration & Interests
 I’m always open to collaborations that challenge me to grow and learn. If you’re working on something that aligns with my interests in rare diseases, multi-omics, or bioinformatics, or if you have a completely new area to explore, I’d love to connect!
 
 ### 📫 Get in Touch
-The best way to reach me is through [**LinkedIn**](https://www.linkedin.com/in/kimberly-christine-coetzer-hugo-a02049151/). 
+The best way to reach me is through [**LinkedIn**](https://www.linkedin.com/in/kimberly-christine-coetzer-a02049151/). 
 Let’s connect and explore how we can work together!
